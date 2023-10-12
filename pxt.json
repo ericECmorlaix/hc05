@@ -1,5 +1,5 @@
 {
-    "name": "HC05",
+    "name": "HC05_simple",
     "description": "",
     "dependencies": {
         "core": "*",
